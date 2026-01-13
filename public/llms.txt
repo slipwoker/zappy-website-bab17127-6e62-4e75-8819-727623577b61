@@ -1,0 +1,58 @@
+# דרך לעוצמה — Generative Engine Optimization Map
+
+> A כושר ובריאות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-bab17127.zappy5.app
+גלו אימונים אישיים מקצועיים שמספקים תוצאות אמיתיות. צור קשר עוד היום לייעוץ חינם!
+
+### שירותים
+https://-bab17127.zappy5.app/services
+שירותי מאמן כושר אישי פאוורליפטינג מקצועיים המותאמים לצרכים שלך. אימונים אישיים, שיקום ותוכניות אימון מותאמות.
+
+### אודות
+https://-bab17127.zappy5.app/about
+גלו את הסיפור מאחורי דרך לעוצמה - מאמן כושר אישי בישראל המתמחה בפאוורליפטינג ושיקום. למד על הגישה שלנו לאימונים אישיים.
+
+### צור קשר
+https://-bab17127.zappy5.app/contact
+צור קשר עם דרך לעוצמה לקבלת ייעוץ חינם על אימונים אישיים, מאמן כושר אישי פאוורליפטינג ושיקום. נשמח לעזור לך להגיע למטרות שלך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-bab17127.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-bab17127.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-bab17127.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About דרך לעוצמה
+דרך לעוצמה is a business in the כושר ובריאות industry.
+
+## Target Audience
+- חובבי כושר
+- לקוחות שיקום
+
+## Industry
+כושר ובריאות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-bab17127.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-bab17127.zappy5.app/robots.txt
